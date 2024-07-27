@@ -1,209 +1,56 @@
 {
   login_request: [
-    {
-      phone: "9800123123",
-      status: "success",
-    },
-
-    {
-      phone: "9800123124",
-      status: "success",
-    },
-
-    {
-      phone: "9800123125",
-      status: "success",
-    },
-    {
-      phone: "9800123126",
-      status: "success",
-    },
-    {
-      phone: "9800123127",
-      status: "success",
-    },
-    {
-      phone: "9800123128",
-      status: "success",
-    },
-    {
-      phone: "9800123129",
-      status: "success",
-    },
-    {
-      phone: "9800123130",
-      status: "success",
-    },
-    {
-      phone: "9800123131",
-      status: "success",
-    },
-    {
-      phone: "9800123132",
-      status: "success",
-    },
-    {
-      phone: "9800123133",
-      status: "success",
-    },
-    {
-      phone: "9800123134",
-      status: "success",
-    },
-    {
-      phone: "9800123135",
-      status: "success",
-    },
-    {
-      phone: "9800123136",
-      status: "success",
-    },
-    {
-      phone: "9800123137",
-      status: "success",
-    },
-    {
-      phone: "9800123138",
-      status: "success",
-    },
-    {
-      phone: "9800123139",
-      status: "success",
-    },
-    {
-      phone: "9800123140",
-      status: "success",
-    },
-    {
-      phone: "9800123141",
-      status: "success",
-    },
-    {
-      phone: "9800123142",
-      status: "success",
-    },
-    {
-      phone: "9800123143",
-      status: "success",
-    },
-    {
-      phone: "9800123144",
-      status: "success",
-    },
-    {
-      phone: "9800123145",
-      status: "success",
-    },
-    {
-      phone: "9800123146",
-      status: "success",
-    },
-    {
-      phone: "9800123147",
-      status: "success",
-    },
-    {
-      phone: "9800123148",
-      status: "success",
-    },
-    {
-      phone: "9800123149",
-      status: "success",
-    },
-    {
-      phone: "9800123150",
-      status: "success",
-    },
-    {
-      phone: "9800123151",
-      status: "success",
-    },
-    {
-      phone: "9800123152",
-      status: "success",
-    },
-    {
-      phone: "9800123153",
-      status: "success",
-    },
-    {
-      phone: "9800123154",
-      status: "success",
-    },
-    {
-      phone: "9800123155",
-      status: "success",
-    },
-    {
-      phone: "9800123156",
-      status: "success",
-    },
-    {
-      phone: "9800123157",
-      status: "success",
-    },
-    {
-      phone: "9800123158",
-      status: "success",
-    },
-    {
-      phone: "9800123159",
-      status: "success",
-    },
-    {
-      phone: "9800123160",
-      status: "success",
-    },
-    {
-      phone: "9800123161",
-      status: "success",
-    },
-    {
-      phone: "9800123162",
-      status: "success",
-    },
-    {
-      phone: "9800123163",
-      status: "success",
-    },
-    {
-      phone: "9800123164",
-      status: "success",
-    },
-    {
-      phone: "9800123165",
-      status: "success",
-    },
-    {
-      phone: "9800123166",
-      status: "success",
-    },
-    {
-      phone: "9800123167",
-      status: "success",
-    },
-    {
-      phone: "9800123168",
-      status: "success",
-    },
-    {
-      phone: "9800123169",
-      status: "success",
-    },
-    {
-      phone: "9800123170",
-      status: "success",
-    },
-    {
-      phone: "9800123171",
-      status: "success",
-    },
-    {
-      phone: "9800123172",
-      status: "success",
-    },
+    { phone: "9800123123", status: "success" },
+    { phone: "9800123124", status: "success" },
+    { phone: "9800123125", status: "success" },
+    { phone: "9800123126", status: "success" },
+    { phone: "9800123127", status: "success" },
+    { phone: "9800123128", status: "success" },
+    { phone: "9800123129", status: "success" },
+    { phone: "9800123130", status: "success" },
+    { phone: "9800123131", status: "success" },
+    { phone: "9800123132", status: "success" },
+    { phone: "9800123133", status: "success" },
+    { phone: "9800123134", status: "success" },
+    { phone: "9800123135", status: "success" },
+    { phone: "9800123136", status: "success" },
+    { phone: "9800123137", status: "success" },
+    { phone: "9800123138", status: "success" },
+    { phone: "9800123139", status: "success" },
+    { phone: "9800123140", status: "success" },
+    { phone: "9800123141", status: "success" },
+    { phone: "9800123142", status: "success" },
+    { phone: "9800123143", status: "success" },
+    { phone: "9800123144", status: "success" },
+    { phone: "9800123145", status: "success" },
+    { phone: "9800123146", status: "success" },
+    { phone: "9800123147", status: "success" },
+    { phone: "9800123148", status: "success" },
+    { phone: "9800123149", status: "success" },
+    { phone: "9800123150", status: "success" },
+    { phone: "9800123151", status: "success" },
+    { phone: "9800123152", status: "success" },
+    { phone: "9800123153", status: "success" },
+    { phone: "9800123154", status: "success" },
+    { phone: "9800123155", status: "success" },
+    { phone: "9800123156", status: "success" },
+    { phone: "9800123157", status: "success" },
+    { phone: "9800123158", status: "success" },
+    { phone: "9800123159", status: "success" },
+    { phone: "9800123160", status: "success" },
+    { phone: "9800123161", status: "success" },
+    { phone: "9800123162", status: "success" },
+    { phone: "9800123163", status: "success" },
+    { phone: "9800123164", status: "success" },
+    { phone: "9800123165", status: "success" },
+    { phone: "9800123166", status: "success" },
+    { phone: "9800123167", status: "success" },
+    { phone: "9800123168", status: "success" },
+    { phone: "9800123169", status: "success" },
+    { phone: "9800123170", status: "success" },
+    { phone: "9800123171", status: "success" },
+    { phone: "9800123172", status: "success" },
   ],
-
   login_validate_otp: [
     {
       phone: "9800123123",
@@ -584,7 +431,6 @@
       status: "success",
     },
   ],
-
   region: [
     {
       regionId: 1,
@@ -947,7 +793,6 @@
       isDeleted: false,
     },
   ],
-
   doctor: [
     {
       id: 201,
@@ -1590,7 +1435,6 @@
       ],
     },
   ],
-
   patient: [
     {
       id: 101,
@@ -2579,7 +2423,6 @@
       ],
     },
   ],
-
   mdsKeyVal: [
     {
       id: 1,
@@ -2643,8 +2486,8 @@
       dataType: "float",
       postfix: "°C",
       defaultValue: "36.5",
-      minValue: 35.0,
-      maxValue: 42.0,
+      minValue: 35,
+      maxValue: 42,
       iconName: "thermometer",
       sequence: 4,
       createdAt: "2024-07-20",
@@ -2735,7 +2578,7 @@
       defaultValue: "90",
       minValue: 70,
       maxValue: 180,
-      iconName: "scale-outline", // No change needed
+      iconName: "scale-outline",
       sequence: 9,
       createdAt: "2024-07-20",
       createdBy: "admin",
@@ -2744,7 +2587,6 @@
       isDeleted: false,
     },
   ],
-
   mdsComplaint: [
     {
       id: 1,
@@ -3087,7 +2929,6 @@
       isDeleted: false,
     },
   ],
-
   mdsDiagnosis: [
     {
       id: 1,
@@ -3259,7 +3100,6 @@
       isActive: true,
       isDeleted: false,
     },
-
     {
       id: 11,
       type: "Secondary",
@@ -3431,7 +3271,6 @@
       isDeleted: false,
     },
   ],
-
   mdsAllergy: [
     {
       id: 1,
@@ -3824,7 +3663,6 @@
       isDeleted: false,
     },
   ],
-
   mdsAdvice: [
     {
       id: "1",
@@ -4172,7 +4010,6 @@
       isDeleted: false,
     },
   ],
-
   mdsTestReportCategory: [
     {
       id: "1",
@@ -4224,7 +4061,7 @@
       thumbnail: "cholesterol_thumbnail.png",
       dataType: "float",
       postfix: "mg/dL",
-      defaultValue: 200.0,
+      defaultValue: 200,
       minValue: 100,
       maxValue: 300,
       isSub: false,
@@ -4308,7 +4145,7 @@
       thumbnail: "oxygen_thumbnail.png",
       dataType: "float",
       postfix: "%",
-      defaultValue: 98.0,
+      defaultValue: 98,
       minValue: 90,
       maxValue: 100,
       isSub: false,
@@ -4330,8 +4167,8 @@
       dataType: "float",
       postfix: "°C",
       defaultValue: 36.5,
-      minValue: 35.0,
-      maxValue: 40.0,
+      minValue: 35,
+      maxValue: 40,
       isSub: false,
       parentId: null,
       sequence: 8,
@@ -4350,9 +4187,9 @@
       thumbnail: "hemoglobin_thumbnail.png",
       dataType: "float",
       postfix: "g/dL",
-      defaultValue: 14.0,
-      minValue: 12.0,
-      maxValue: 18.0,
+      defaultValue: 14,
+      minValue: 12,
+      maxValue: 18,
       isSub: false,
       parentId: null,
       sequence: 9,
@@ -4413,7 +4250,7 @@
       thumbnail: "creatinine_thumbnail.png",
       dataType: "float",
       postfix: "mg/dL",
-      defaultValue: 1.0,
+      defaultValue: 1,
       minValue: 0.5,
       maxValue: 1.5,
       isSub: false,
@@ -4434,9 +4271,9 @@
       thumbnail: "sodium_thumbnail.png",
       dataType: "float",
       postfix: "mmol/L",
-      defaultValue: 140.0,
-      minValue: 135.0,
-      maxValue: 145.0,
+      defaultValue: 140,
+      minValue: 135,
+      maxValue: 145,
       isSub: false,
       parentId: null,
       sequence: 13,
@@ -4455,9 +4292,9 @@
       thumbnail: "potassium_thumbnail.png",
       dataType: "float",
       postfix: "mmol/L",
-      defaultValue: 4.0,
+      defaultValue: 4,
       minValue: 3.5,
-      maxValue: 5.0,
+      maxValue: 5,
       isSub: false,
       parentId: null,
       sequence: 14,
@@ -4476,7 +4313,7 @@
       thumbnail: "calcium_thumbnail.png",
       dataType: "float",
       postfix: "mg/dL",
-      defaultValue: 9.0,
+      defaultValue: 9,
       minValue: 8.5,
       maxValue: 10.5,
       isSub: false,
@@ -4497,9 +4334,9 @@
       thumbnail: "vitamin_d_thumbnail.png",
       dataType: "float",
       postfix: "ng/mL",
-      defaultValue: 30.0,
-      minValue: 20.0,
-      maxValue: 50.0,
+      defaultValue: 30,
+      minValue: 20,
+      maxValue: 50,
       isSub: false,
       parentId: null,
       sequence: 16,
@@ -4518,9 +4355,9 @@
       thumbnail: "iron_thumbnail.png",
       dataType: "float",
       postfix: "µg/dL",
-      defaultValue: 70.0,
-      minValue: 50.0,
-      maxValue: 150.0,
+      defaultValue: 70,
+      minValue: 50,
+      maxValue: 150,
       isSub: false,
       parentId: null,
       sequence: 17,
@@ -4539,7 +4376,7 @@
       thumbnail: "magnesium_thumbnail.png",
       dataType: "float",
       postfix: "mg/dL",
-      defaultValue: 2.0,
+      defaultValue: 2,
       minValue: 1.5,
       maxValue: 2.5,
       isSub: false,
@@ -4560,7 +4397,7 @@
       thumbnail: "lipid_profile_thumbnail.png",
       dataType: "float",
       postfix: "mg/dL",
-      defaultValue: 180.0,
+      defaultValue: 180,
       minValue: 100,
       maxValue: 400,
       isSub: false,
@@ -4581,7 +4418,7 @@
       thumbnail: "tsh_thumbnail.png",
       dataType: "float",
       postfix: "µIU/mL",
-      defaultValue: 2.0,
+      defaultValue: 2,
       minValue: 0.5,
       maxValue: 4.5,
       isSub: false,
@@ -4595,7 +4432,6 @@
       isDeleted: false,
     },
   ],
-
   mdsTestReport: [
     {
       id: 1,
@@ -4848,7 +4684,7 @@
       thumbnail: "creatinine_thumbnail.png",
       dataType: "float",
       postfix: "mg/dL",
-      defaultValue: 1.0,
+      defaultValue: 1,
       minValue: 0.5,
       maxValue: 1.5,
       isSub: false,
@@ -4892,9 +4728,9 @@
       thumbnail: "potassium_thumbnail.png",
       dataType: "float",
       postfix: "mmol/L",
-      defaultValue: 4.0,
+      defaultValue: 4,
       minValue: 3.5,
-      maxValue: 5.0,
+      maxValue: 5,
       isSub: false,
       parentId: null,
       sequence: 14,
@@ -4914,7 +4750,7 @@
       thumbnail: "calcium_thumbnail.png",
       dataType: "float",
       postfix: "mg/dL",
-      defaultValue: 9.0,
+      defaultValue: 9,
       minValue: 8.5,
       maxValue: 10.5,
       isSub: false,
@@ -4980,7 +4816,7 @@
       thumbnail: "magnesium_thumbnail.png",
       dataType: "float",
       postfix: "mg/dL",
-      defaultValue: 2.0,
+      defaultValue: 2,
       minValue: 1.5,
       maxValue: 2.5,
       isSub: false,
@@ -5024,7 +4860,7 @@
       thumbnail: "tsh_thumbnail.png",
       dataType: "float",
       postfix: "µIU/mL",
-      defaultValue: 2.0,
+      defaultValue: 2,
       minValue: 0.5,
       maxValue: 4.5,
       isSub: false,
@@ -5038,7 +4874,6 @@
       isDeleted: false,
     },
   ],
-
   CatalogueCategory: [
     {
       id: "1",
@@ -5401,7 +5236,6 @@
       isDeleted: false,
     },
   ],
-
   CatalogueBrand: [
     {
       id: "1",
@@ -5724,7 +5558,6 @@
       isDeleted: false,
     },
   ],
-
   CatalogueProduct: [
     {
       id: 1,
@@ -5735,7 +5568,7 @@
       description: "Used to treat mild to moderate pain and fever",
       category: [{ id: 1 }, { id: 2 }, { id: 3 }],
       brandId: 1,
-      price: 10.0,
+      price: 10,
       currency: "USD",
       power: 500,
       unit: "mg",
@@ -5766,7 +5599,7 @@
       description: "Used to reduce fever and treat pain",
       category: [{ id: 1 }, { id: 4 }],
       brandId: 2,
-      price: 15.0,
+      price: 15,
       currency: "USD",
       power: 400,
       unit: "mg",
@@ -5797,7 +5630,7 @@
       description: "Used for pain relief, fever reduction, and anti-inflammatory purposes",
       category: [{ id: 2 }, { id: 5 }],
       brandId: 3,
-      price: 12.0,
+      price: 12,
       currency: "USD",
       power: 300,
       unit: "mg",
@@ -5828,7 +5661,7 @@
       description: "Antibiotic used to treat various bacterial infections",
       category: [{ id: 3 }, { id: 6 }],
       brandId: 4,
-      price: 20.0,
+      price: 20,
       currency: "USD",
       power: 250,
       unit: "mg",
@@ -5859,7 +5692,7 @@
       description: "Antihistamine used to relieve allergy symptoms",
       category: [{ id: 4 }, { id: 7 }],
       brandId: 5,
-      price: 18.0,
+      price: 18,
       currency: "USD",
       power: 10,
       unit: "mg",
@@ -5890,7 +5723,7 @@
       description: "Used to manage blood sugar levels in type 2 diabetes",
       category: [{ id: 5 }, { id: 8 }],
       brandId: 6,
-      price: 22.0,
+      price: 22,
       currency: "USD",
       power: 500,
       unit: "mg",
@@ -5921,7 +5754,7 @@
       description: "Used to lower cholesterol levels",
       category: [{ id: 6 }, { id: 9 }],
       brandId: 7,
-      price: 25.0,
+      price: 25,
       currency: "USD",
       power: 20,
       unit: "mg",
@@ -5952,7 +5785,7 @@
       description: "Used to treat high blood pressure",
       category: [{ id: 7 }, { id: 10 }],
       brandId: 8,
-      price: 28.0,
+      price: 28,
       currency: "USD",
       power: 10,
       unit: "mg",
@@ -5983,7 +5816,7 @@
       description: "Used to treat gastroesophageal reflux disease (GERD)",
       category: [{ id: 8 }, { id: 11 }],
       brandId: 9,
-      price: 30.0,
+      price: 30,
       currency: "USD",
       power: 20,
       unit: "mg",
@@ -6014,7 +5847,7 @@
       description: "Used to treat thyroid hormone deficiency",
       category: [{ id: 9 }, { id: 12 }],
       brandId: 10,
-      price: 35.0,
+      price: 35,
       currency: "USD",
       power: 50,
       unit: "mcg",
@@ -6045,7 +5878,7 @@
       description: "Used to treat high blood pressure and fluid retention",
       category: [{ id: 10 }, { id: 13 }],
       brandId: 11,
-      price: 40.0,
+      price: 40,
       currency: "USD",
       power: 25,
       unit: "mg",
@@ -6076,7 +5909,7 @@
       description: "Used to manage anxiety disorders",
       category: [{ id: 11 }, { id: 14 }],
       brandId: 12,
-      price: 45.0,
+      price: 45,
       currency: "USD",
       power: 0.5,
       unit: "mg",
@@ -6107,7 +5940,7 @@
       description: "Used to treat nerve pain and seizures",
       category: [{ id: 12 }, { id: 15 }],
       brandId: 13,
-      price: 50.0,
+      price: 50,
       currency: "USD",
       power: 300,
       unit: "mg",
@@ -6138,7 +5971,7 @@
       description: "Used to treat stomach ulcers and acid reflux",
       category: [{ id: 13 }, { id: 16 }],
       brandId: 14,
-      price: 55.0,
+      price: 55,
       currency: "USD",
       power: 150,
       unit: "mg",
@@ -6169,7 +6002,7 @@
       description: "Used to prevent blood clots",
       category: [{ id: 14 }, { id: 17 }],
       brandId: 15,
-      price: 60.0,
+      price: 60,
       currency: "USD",
       power: 75,
       unit: "mg",
@@ -6200,7 +6033,7 @@
       description: "Used to treat anxiety, seizures, and muscle spasms",
       category: [{ id: 15 }, { id: 18 }],
       brandId: 16,
-      price: 65.0,
+      price: 65,
       currency: "USD",
       power: 10,
       unit: "mg",
@@ -6231,7 +6064,7 @@
       description: "Used to treat benign prostatic hyperplasia (BPH)",
       category: [{ id: 16 }, { id: 19 }],
       brandId: 17,
-      price: 70.0,
+      price: 70,
       currency: "USD",
       power: 0.4,
       unit: "mg",
@@ -6262,7 +6095,7 @@
       description: "Used to treat depression and anxiety",
       category: [{ id: 17 }, { id: 20 }],
       brandId: 18,
-      price: 75.0,
+      price: 75,
       currency: "USD",
       power: 20,
       unit: "mg",
@@ -6293,7 +6126,7 @@
       description: "Used to manage anxiety disorders",
       category: [{ id: 18 }, { id: 21 }],
       brandId: 19,
-      price: 80.0,
+      price: 80,
       currency: "USD",
       power: 10,
       unit: "mg",
@@ -6324,7 +6157,7 @@
       description: "Used to treat high blood pressure and heart conditions",
       category: [{ id: 19 }, { id: 22 }],
       brandId: 20,
-      price: 85.0,
+      price: 85,
       currency: "USD",
       power: 50,
       unit: "mg",
@@ -6347,7 +6180,6 @@
       expiryDate: "2025-02-01",
     },
   ],
-
   patient_emr: [
     {
       aptId: 1,
@@ -6381,10 +6213,10 @@
       date: "2024-07-02",
       time: "18:30:00",
       vital: [
-        { id: 1, value: 6.0 },
-        { id: 2, value: 6.0 },
-        { id: 3, value: 6.0 },
-        { id: 4, value: 6.0 },
+        { id: 1, value: 6 },
+        { id: 2, value: 6 },
+        { id: 3, value: 6 },
+        { id: 4, value: 6 },
       ],
       complaint: [{ id: 1 }, { id: 2 }, { id: 3 }],
       diagnosis: [{ id: 1 }, { id: 2 }, { id: 3 }],
@@ -6829,8 +6661,32 @@
       testReport: [{ id: 1 }, { id: 2 }, { id: 3 }],
       testReportNotes: "normal xray",
     },
+    {
+      id: "3053",
+      aptId: 88,
+      doctorId: 74,
+      patientId: 11,
+      aptDate: "2024-07-01",
+      date: "2024-07-01",
+      time: "18:00:00",
+      vital: [
+        { id: 101, value: 5.85 },
+        { id: 102, value: 5.85 },
+        { id: 103, value: 5.85 },
+        { id: 104, value: 5.85 },
+      ],
+      complaint: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      diagnosis: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      alergies: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      medicine: [
+        { id: 1, dose: 1, duration: 1, dosedWhen: 1 },
+        { id: 2, dose: 1, duration: 1, dosedWhen: 1 },
+      ],
+      advices: [{ id: 1 }, { id: 2 }],
+      testReport: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      testReportNotes: "high power xray",
+    },
   ],
-
   socialHistory: [
     {
       socialHistoryId: 1,
@@ -7023,265 +6879,4 @@
       isDeleted: false,
     },
   ],
-
-  // medical_tests: [
-  //   {
-  //     category: "Blood Tests",
-  //     tests: [
-  //       {
-  //         name: "Complete Blood Count (CBC)",
-  //         description: "Measures different components of blood, including red blood cells, white blood cells, and platelets.",
-  //       },
-  //       {
-  //         name: "Blood Chemistry Tests",
-  //         description: "Analyzes substances in the blood such as glucose, electrolytes, enzymes, and hormones.",
-  //       },
-  //       {
-  //         name: "Lipid Profile",
-  //         description: "Measures cholesterol levels, including LDL, HDL, and triglycerides.",
-  //       },
-  //       {
-  //         name: "Liver Function Tests",
-  //         description: "Evaluates liver enzymes, bilirubin, and proteins to assess liver health.",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     category: "Imaging Tests",
-  //     tests: [
-  //       {
-  //         name: "X-ray",
-  //         description: "Uses radiation to create images of bones and other structures.",
-  //       },
-  //       {
-  //         name: "Computed Tomography (CT) Scan",
-  //         description: "Provides detailed cross-sectional images of the body using X-rays and computer processing.",
-  //       },
-  //       {
-  //         name: "Magnetic Resonance Imaging (MRI)",
-  //         description: "Uses magnetic fields and radio waves to create detailed images of organs and tissues.",
-  //       },
-  //       {
-  //         name: "Ultrasound",
-  //         description: "Uses sound waves to produce images of structures within the body, often used in pregnancy and organ evaluations.",
-  //       },
-  //       {
-  //         name: "Positron Emission Tomography (PET) Scan",
-  //         description: "Uses radioactive tracers to visualize metabolic processes and detect abnormalities.",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     category: "Genetic Tests",
-  //     tests: [
-  //       {
-  //         name: "Genetic Screening",
-  //         description: "Identifies genetic mutations associated with specific conditions or diseases.",
-  //       },
-  //       {
-  //         name: "Prenatal Genetic Testing",
-  //         description: "Detects genetic abnormalities in a fetus.",
-  //       },
-  //       {
-  //         name: "Pharmacogenomic Testing",
-  //         description: "Determines how a person’s genes affect their response to medications.",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     category: "Microbiological Tests",
-  //     tests: [
-  //       {
-  //         name: "Culture and Sensitivity",
-  //         description: "Identifies bacteria or fungi in a sample and tests their sensitivity to antibiotics.",
-  //       },
-  //       {
-  //         name: "Polymerase Chain Reaction (PCR)",
-  //         description: "Amplifies and detects specific DNA sequences, commonly used for infectious disease diagnosis.",
-  //       },
-  //       {
-  //         name: "Rapid Antigen Tests",
-  //         description: "Quickly detects the presence of specific antigens related to infections.",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     category: "Biopsy",
-  //     tests: [
-  //       {
-  //         name: "Needle Biopsy",
-  //         description: "Uses a needle to extract tissue samples from organs or masses.",
-  //       },
-  //       {
-  //         name: "Surgical Biopsy",
-  //         description: "Removes larger tissue samples through surgical procedures for examination.",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     category: "Functional Tests",
-  //     tests: [
-  //       {
-  //         name: "Electrocardiogram (ECG/EKG)",
-  //         description: "Measures the electrical activity of the heart.",
-  //       },
-  //       {
-  //         name: "Spirometry",
-  //         description: "Assesses lung function by measuring the volume and flow of air during inhalation and exhalation.",
-  //       },
-  //       {
-  //         name: "Stress Test",
-  //         description: "Evaluates heart function under physical exertion.",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     category: "Urine Tests",
-  //     tests: [
-  //       {
-  //         name: "Urinalysis",
-  //         description: "Analyzes the content and concentration of urine for signs of disease.",
-  //       },
-  //       {
-  //         name: "24-Hour Urine Collection",
-  //         description: "Collects urine over a 24-hour period to assess kidney function and detect metabolic disorders.",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     category: "Hormone Tests",
-  //     tests: [
-  //       {
-  //         name: "Thyroid Function Tests",
-  //         description: "Measures levels of thyroid hormones (TSH, T3, T4) to assess thyroid function.",
-  //       },
-  //       {
-  //         name: "Sex Hormone Tests",
-  //         description: "Evaluates levels of hormones such as estrogen, progesterone, and testosterone.",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     category: "Tumor Marker Tests",
-  //     tests: [
-  //       {
-  //         name: "Prostate-Specific Antigen (PSA)",
-  //         description: "Measures PSA levels to screen for prostate cancer.",
-  //       },
-  //       {
-  //         name: "CA-125",
-  //         description: "Used to monitor ovarian cancer.",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     category: "Other Tests",
-  //     tests: [
-  //       {
-  //         name: "Allergy Tests",
-  //         description: "Identifies specific allergens causing allergic reactions.",
-  //       },
-  //       {
-  //         name: "Bone Density Test (DEXA)",
-  //         description: "Measures bone mineral density to assess osteoporosis risk.",
-  //       },
-  //       {
-  //         name: "Eye Exams",
-  //         description: "Includes various tests to evaluate vision and eye health.",
-  //       },
-  //     ],
-  //   },
-  // ],
-
-  // medical_tests1: [
-  //   {
-  //     "Laboratory Tests": {
-  //       "Blood Tests": [
-  //         "Complete Blood Count (CBC)",
-  //         "Blood Glucose Test",
-  //         "Lipid Panel",
-  //         "Liver Function Tests",
-  //         "Kidney Function Tests",
-  //         "Blood Clotting Tests (PT, aPTT)",
-  //         "Hemoglobin A1c",
-  //       ],
-  //       "Urine Tests": [
-  //         "Urinalysis",
-  //         "Urine Culture",
-  //         "24-Hour Urine Collection",
-  //       ],
-  //       "Stool Tests": [
-  //         "Fecal Occult Blood Test",
-  //         "Stool Culture",
-  //         "Stool DNA Test",
-  //       ],
-  //       "Other Body Fluid Tests": [
-  //         "Sputum Culture",
-  //         "Spinal Tap (Lumbar Puncture)",
-  //         "Pleural Fluid Analysis",
-  //         "Peritoneal Fluid Analysis",
-  //       ],
-  //     },
-  //     "Imaging Tests": {
-  //       "X-rays": ["Chest X-ray", "Bone X-ray"],
-  //       Ultrasound: [
-  //         "Abdominal Ultrasound",
-  //         "Pelvic Ultrasound",
-  //         "Echocardiogram",
-  //       ],
-  //       "Computed Tomography (CT) Scans": [
-  //         "Head CT Scan",
-  //         "Chest CT Scan",
-  //         "Abdominal and Pelvic CT Scan",
-  //       ],
-  //       "Magnetic Resonance Imaging (MRI)": [
-  //         "Brain MRI",
-  //         "Spine MRI",
-  //         "Joint MRI",
-  //       ],
-  //       "Nuclear Medicine Scans": [
-  //         "Positron Emission Tomography (PET) Scan",
-  //         "Bone Scan",
-  //         "Thyroid Scan",
-  //       ],
-  //     },
-  //     "Endoscopic Exams": [
-  //       "Upper Endoscopy",
-  //       "Colonoscopy",
-  //       "Sigmoidoscopy",
-  //       "Bronchoscopy",
-  //       "Cystoscopy",
-  //     ],
-  //     "Cardiovascular Tests": [
-  //       "Electrocardiogram (ECG or EKG)",
-  //       "Echocardiogram",
-  //       "Stress Test",
-  //       "Holter Monitor",
-  //       "Cardiac Catheterization",
-  //     ],
-  //     "Pulmonary Function Tests": [
-  //       "Spirometry",
-  //       "Peak Flow Measurement",
-  //       "Arterial Blood Gas Analysis",
-  //     ],
-  //     "Genetic and Molecular Tests": [
-  //       "Karyotyping",
-  //       "Polymerase Chain Reaction (PCR)",
-  //       "Next-Generation Sequencing (NGS)",
-  //       "Fluorescence In Situ Hybridization (FISH)",
-  //     ],
-  //     "Infectious Disease Tests": [
-  //       "Rapid Antigen Tests",
-  //       "Polymerase Chain Reaction (PCR) Tests",
-  //       "Serology Tests (Antibody Tests)",
-  //       "Culture Tests",
-  //     ],
-  //     "Biopsy and Histopathology": [
-  //       "Fine-Needle Aspiration (FNA)",
-  //       "Core Needle Biopsy",
-  //       "Excisional Biopsy",
-  //       "Frozen Section",
-  //     ],
-  //   },
-  // ],
 }
