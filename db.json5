@@ -804,8 +804,8 @@
       altPhone: "+0987654321",
       primaryEmail: "john.doe@example.com",
       altEmail: "johndoe@gmail.com",
-      qualificationId: [1, 2],
-      specializationId: [1, 2, 3],
+      qualification: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specialization: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 301,
@@ -836,8 +836,8 @@
       altPhone: "+1098765432",
       primaryEmail: "jane.smith@example.com",
       altEmail: "janesmith@gmail.com",
-      qualificationId: [2, 3],
-      specializationId: [2, 4],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 302,
@@ -868,8 +868,8 @@
       altPhone: "+2109876543",
       primaryEmail: "alice.johnson@example.com",
       altEmail: "alicejohnson@gmail.com",
-      qualificationId: [1, 3],
-      specializationId: [3, 5],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 303,
@@ -900,8 +900,8 @@
       altPhone: "+3210987654",
       primaryEmail: "robert.brown@example.com",
       altEmail: "robertbrown@gmail.com",
-      qualificationId: [2, 4],
-      specializationId: [1, 6],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 304,
@@ -964,8 +964,8 @@
       altPhone: "+5432109876",
       primaryEmail: "michael.wilson@example.com",
       altEmail: "michaelwilson@gmail.com",
-      qualificationId: [3, 5],
-      specializationId: [4, 8],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 306,
@@ -996,8 +996,8 @@
       altPhone: "+6543210987",
       primaryEmail: "sarah.martinez@example.com",
       altEmail: "sarahmartinez@gmail.com",
-      qualificationId: [2, 6],
-      specializationId: [5, 9],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 307,
@@ -1028,8 +1028,8 @@
       altPhone: "+7654321098",
       primaryEmail: "david.anderson@example.com",
       altEmail: "davidanderson@gmail.com",
-      qualificationId: [1, 5],
-      specializationId: [6, 10],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 308,
@@ -1060,8 +1060,8 @@
       altPhone: "+8765432109",
       primaryEmail: "laura.thomas@example.com",
       altEmail: "laurathomas@gmail.com",
-      qualificationId: [3, 7],
-      specializationId: [7, 11],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 309,
@@ -1092,8 +1092,8 @@
       altPhone: "+9876543210",
       primaryEmail: "james.taylor@example.com",
       altEmail: "jamestaylor@gmail.com",
-      qualificationId: [2, 8],
-      specializationId: [8, 12],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 310,
@@ -1124,8 +1124,8 @@
       altPhone: "+0987654322",
       primaryEmail: "olivia.lee@example.com",
       altEmail: "olivialee@gmail.com",
-      qualificationId: [1, 6],
-      specializationId: [1, 9],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 311,
@@ -1156,8 +1156,8 @@
       altPhone: "+1098765433",
       primaryEmail: "william.garcia@example.com",
       altEmail: "williamgarcia@gmail.com",
-      qualificationId: [3, 9],
-      specializationId: [2, 10],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 312,
@@ -1188,8 +1188,8 @@
       altPhone: "+2109876544",
       primaryEmail: "sophia.miller@example.com",
       altEmail: "sophiamiller@gmail.com",
-      qualificationId: [2, 10],
-      specializationId: [3, 11],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 313,
@@ -1220,8 +1220,8 @@
       altPhone: "+3210987655",
       primaryEmail: "benjamin.harris@example.com",
       altEmail: "benjaminharris@gmail.com",
-      qualificationId: [1, 7],
-      specializationId: [4, 12],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 314,
@@ -1252,8 +1252,8 @@
       altPhone: "+4321098766",
       primaryEmail: "isabella.clark@example.com",
       altEmail: "isabellaclark@gmail.com",
-      qualificationId: [3, 8],
-      specializationId: [5, 6],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 315,
@@ -1284,8 +1284,8 @@
       altPhone: "+5432109877",
       primaryEmail: "elijah.lewis@example.com",
       altEmail: "elijahlewis@gmail.com",
-      qualificationId: [2, 9],
-      specializationId: [6, 7],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 316,
@@ -1316,8 +1316,8 @@
       altPhone: "+6543210988",
       primaryEmail: "avery.walker@example.com",
       altEmail: "averywalker@gmail.com",
-      qualificationId: [1, 10],
-      specializationId: [7, 8],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 317,
@@ -1348,8 +1348,8 @@
       altPhone: "+7654321099",
       primaryEmail: "mia.hall@example.com",
       altEmail: "miahall@gmail.com",
-      qualificationId: [2, 10],
-      specializationId: [8, 9],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 318,
@@ -1380,8 +1380,8 @@
       altPhone: "+8765432101",
       primaryEmail: "lucas.young@example.com",
       altEmail: "lucasyoung@gmail.com",
-      qualificationId: [3, 11],
-      specializationId: [9, 10],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 319,
@@ -1412,8 +1412,8 @@
       altPhone: "+9876543211",
       primaryEmail: "charlotte.king@example.com",
       altEmail: "charlotteking@gmail.com",
-      qualificationId: [1, 8],
-      specializationId: [5, 12],
+      qualificationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
+      specializationId: [{ id: 1 }, { id: 2 }, { id: 3 }],
       address: [
         {
           id: 320,
