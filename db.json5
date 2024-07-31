@@ -797,6 +797,7 @@
   doctor_get: [
     {
       id: 201,
+      sysid: 220240731,
       firstName: "John",
       lastName: "Doe",
       thumbnail: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
@@ -2082,6 +2083,7 @@
   patient_get: [
     {
       id: 101,
+      sysid: 220240731,
       salutation: "Mr.",
       firstName: "John",
       lastName: "Doe",
@@ -7215,6 +7217,7 @@
     {
       id: 1,
       name: "Paracetamol",
+      sysid: 220240731,
       hsnCode: "1544545",
       serialNum: "54545454",
       slug: "paracetamol-1544545",
@@ -7835,10 +7838,12 @@
   ],
   patient_emr_get: [
     {
+      patient: { id: 1, name: "patient" },
       company: { id: 1, name: "clinic name" },
       doctor: { id: 1, name: "doctor name" },
-      patient: { id: 1, name: "patient" },
       aptId: 1,
+      ref_number: "",
+      ext_ref_number: "",
       aptDate: "2024-07-01",
       date: "2024-07-01",
       time: "18:00:00",
@@ -8347,10 +8352,12 @@
   ],
   patient_emr_post: [
     {
+      patient: { id: 1 },
       company: { id: 1 },
       doctor: { id: 1 },
-      patient: { id: 1 },
       aptId: 1,
+      ref_number: "",
+      ext_ref_number: "",
       aptDate: "2024-07-01",
       date: "2024-07-01",
       time: "18:00:00",
@@ -8904,8 +8911,10 @@
       id: 12345,
       partitionId: 1,
       regionId: 1,
-      appointmentNumber: 101,
+      sysid: 220240731,
+      aptNumber: 101,
       company: { id: 1 },
+      doctor: { id: 1 },
       patient: { id: 1 },
       date: "2024-07-31",
       time: "10:00:00",
@@ -8914,7 +8923,30 @@
       serviceType: "General Checkup",
       notes: "Patient has a follow-up in two weeks.",
       checkedinAt: "",
-
+      ref_number: "",
+      ext_ref_number: "",
+      status: "", //Not-Started,CheckedIn,In-Progress,Completed,Cancelled, Reschduled
+      isActive: true,
+      isDeleted: false,
+    },
+    {
+      id: 12346,
+      partitionId: 1,
+      regionId: 1,
+      sysid: 220240731,
+      aptNumber: 101,
+      company: { id: 1 },
+      doctor: { id: 1 },
+      patient: { id: 1 },
+      date: "2024-07-31",
+      time: "10:00:00",
+      appointmentType: "Consultation",
+      consultationType: "Physical",
+      serviceType: "General Checkup",
+      notes: "Patient has a follow-up in two weeks.",
+      checkedinAt: "",
+      ref_number: "12345",
+      ext_ref_number: "",
       status: "", //Not-Started,CheckedIn,In-Progress,Completed,Cancelled, Reschduled
       isActive: true,
       isDeleted: false,
