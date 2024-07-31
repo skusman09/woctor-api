@@ -6687,7 +6687,31 @@
       testReportNotes: "high power xray",
     },
   ],
-
+  appointment: [
+    {
+      partitionId: 1,
+      regionId: 1,
+      appointmentId: 12345,
+      userId: 67890,
+      date: "2024-07-31T00:00:00Z",
+      time: "2024-07-31T10:00:00Z",
+      appointmentNumber: 101,
+      sequence: 1,
+      appointmentType: "Consultation", // Consultation or Follow-Up,
+      consultationType: "Physical", // Physical or Video
+      serviceType: "General Checkup",
+      notes: "Patient has a follow-up in two weeks.",
+      // checkinStatus: "CheckedIn",
+      isCheckedin: false,
+      isReschedule: false,
+      isCancelled: false,
+      isCompleted: true,
+      isDeleted: false,
+      locationId: 555,
+    },
+    {},
+    {},
+  ],
   socialHistory: [
     {
       socialHistoryId: 1,
