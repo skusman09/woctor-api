@@ -4742,9 +4742,9 @@
       ],
       advices: [{ adviceId: 1 }, { adviceId: 2 }],
       testReport: [
-        { testReportId: 1 },
-        { testReportId: 2 },
-        { testReportId: 3 },
+        { testReportId: 2, name="Complete Blood Count (CBC)" },
+        { testReportId: 3, name="Computed Tomography (CT) Scan" },
+        { testReportId: 1, name="Magnetic Resonance Imaging (MRI)" },
       ],
       testReportNotes: "high power xray",
     },
